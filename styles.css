@@ -1,0 +1,90 @@
+header {
+    align-items: center;
+    font-size: 30px;
+    text-align: justify;
+    background-color: rgb(0, 150, 170);
+    color: black;
+    background-image: url('machupicchu.jpg');
+    justify-content: space-evenly;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 80%;
+    padding: 30px;
+    margin-top: 20%;
+
+}
+
+.biotext {
+    background-color: #FFFFFF99;
+    padding: 20px;
+    font-size: 20px;
+}
+
+footer {
+    background-color: #c8e715;
+    color: white;
+}
+
+.purple-background {
+    background-color: purple;
+
+}
+
+#green {
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+}
+
+
+.nav {
+    display: flex;
+    margin-top: 10px;
+
+}
+
+.link {
+    padding: 20px;
+    margin-right: 200px;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.link:hover {
+    background-color: navy;
+}
+
+.centered {
+    text-align-last: center;
+}
+
+.intro {
+    max-width: 500px;
+    text-align: left;
+}
+
+img {
+    border-radius: 800px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 650px;
+    margin-left: 100;
+    text-align: center;
+}
+
+.name-title {
+    font-size: 60px;
+
+    font-style: oblique;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+}
+
+#footer {
+    padding: 50px 50px
+}
